@@ -51,9 +51,10 @@ pip install -r requirements.txt
 
 ### 3. API Anahtarını Ayarla
 
-`.env` dosyasını oluşturup düzenle (Yoksa oluştur => touch .env):
+`.env` dosyasını düzenle yoksa oluştur
 
 ```
+touch .env
 OPENAI_API_KEY=sk-proj-...
 ```
 
