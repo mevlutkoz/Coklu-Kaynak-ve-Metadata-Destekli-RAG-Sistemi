@@ -5,7 +5,7 @@ Farklı formatlardaki şirket belgelerinden (TXT sözleşme, CSV fiyat tablosu, 
 ## Klasör Yapısı
 
 ```
-proje/
+Coklu-Kaynak-ve-Metadata-Destekli-RAG-Sistemi/
 ├── data/
 │   ├── sozlesme.txt            # Hukuki sözleşme (9 madde)
 │   ├── paket_fiyatlari.csv     # Paket bilgileri tablosu
@@ -45,13 +45,13 @@ proje/
 ### 2. Bağımlılıkları Kur
 
 ```bash
-cd proje
+cd Coklu-Kaynak-ve-Metadata-Destekli-RAG-Sistemi
 pip install -r requirements.txt
 ```
 
 ### 3. API Anahtarını Ayarla
 
-`.env` dosyasını düzenle:
+`.env` dosyasını oluşturup düzenle (Yoksa oluştur => touch .env):
 
 ```
 OPENAI_API_KEY=sk-proj-...
