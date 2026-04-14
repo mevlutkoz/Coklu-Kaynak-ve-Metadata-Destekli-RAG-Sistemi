@@ -1,0 +1,19 @@
+MÜŞTERİ HİZMET SÖZLEŞMESİ
+
+Madde 1.1: İşbu sözleşme, hizmet sağlayıcı "Şirket" (bundan sonra "Sağlayıcı" olarak anılacaktır) ile hizmeti satın alan gerçek veya tüzel kişi "Müşteri" arasında, Sağlayıcı tarafından sunulan bulut tabanlı yazılım hizmetlerinin kullanım koşullarını düzenlemek amacıyla akdedilmiştir. Taraflar, bu sözleşmenin tüm hükümlerine uymakla yükümlüdür.
+
+Madde 2.1: Sağlayıcı, Müşteri'ye seçtiği paket (Basic, Pro veya Enterprise) kapsamında bulut tabanlı yazılım erişimi, veri depolama, kullanıcı yönetimi ve teknik destek hizmetleri sunacaktır. Hizmetin kapsamı, seçilen paketin özellikleri ile sınırlıdır ve paket değişiklikleri yazılı talep üzerine uygulanır.
+
+Madde 3.1: Müşteri, seçmiş olduğu pakete ait aylık ücreti, her ayın ilk 5 iş günü içerisinde Sağlayıcı'nın belirttiği banka hesabına veya elektronik ödeme kanalları üzerinden ödemekle yükümlüdür. Ödemenin geç yapılması durumunda aylık %2 gecikme faizi uygulanır.
+
+Madde 4.1: Müşteri, hizmeti satın aldığı tarihten itibaren 14 (on dört) gün içerisinde herhangi bir gerekçe göstermeksizin iade talebinde bulunma hakkına sahiptir. Bu süre, standart iade süresi olarak kabul edilir.
+
+Madde 4.2: İade talebi, Sağlayıcı'nın resmi destek kanalları üzerinden yazılı olarak iletilmelidir. Talep onaylandıktan sonra ödeme, 10 iş günü içinde Müşteri'nin hesabına iade edilecektir. Kullanılmış hizmet süreleri iadeden düşülebilir.
+
+Madde 5.1: Müşteri, hizmeti dilediği zaman, en az 30 gün önceden yazılı bildirim yaparak iptal etme hakkına sahiptir. İptal talebi, bildirim süresinin sonunda geçerlilik kazanır.
+
+Madde 5.2: İptal durumunda, Müşteri'nin peşin ödediği ancak henüz kullanılmayan aylara ait ücretler oransal olarak iade edilir. Kullanılan aylara ait ücretler iade edilmez. Promosyonlu paketlerde iade koşulları farklılık gösterebilir.
+
+Madde 6.1: Sağlayıcı, Müşteri'ye ait tüm verileri KVKK ve ilgili uluslararası mevzuat kapsamında korumakla yükümlüdür. Veriler şifrelenmiş biçimde saklanır, yetkisiz erişime karşı teknik ve idari tedbirler alınır. Veri ihlali durumunda Müşteri 72 saat içinde bilgilendirilir.
+
+Madde 7.1: Taraflar arasında doğabilecek her türlü anlaşmazlığın çözümünde öncelikle sulh yolu aranır. Uzlaşma sağlanamaması halinde İstanbul Merkez Mahkemeleri ve İcra Daireleri yetkilidir. İşbu sözleşme Türk Hukuku'na tabidir.

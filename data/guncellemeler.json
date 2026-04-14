@@ -1,0 +1,42 @@
+[
+  {
+    "tarih": "2024-01-15",
+    "etkilenen_paket": "Basic",
+    "degisiklik": "Basic paket fiyatı 79 TL'den 99 TL'ye çıkarıldı."
+  },
+  {
+    "tarih": "2024-03-01",
+    "etkilenen_paket": "Pro",
+    "degisiklik": "Pro paket kullanıcı limiti 20'den 25'e yükseltildi."
+  },
+  {
+    "tarih": "2024-06-01",
+    "etkilenen_paket": "Pro",
+    "degisiklik": "Pro paket iade süresi 30 güne çıkarıldı."
+  },
+  {
+    "tarih": "2024-07-10",
+    "etkilenen_paket": "Enterprise",
+    "degisiklik": "Enterprise paket depolama kapasitesi 500 GB'dan 1000 GB'a yükseltildi."
+  },
+  {
+    "tarih": "2024-09-01",
+    "etkilenen_paket": "Basic",
+    "degisiklik": "Basic paket iade süresi 7 güne düşürüldü."
+  },
+  {
+    "tarih": "2024-11-01",
+    "etkilenen_paket": "Pro",
+    "degisiklik": "Pro paket fiyatı 249 TL'den 299 TL'ye güncellendi."
+  },
+  {
+    "tarih": "2025-01-10",
+    "etkilenen_paket": "Enterprise",
+    "degisiklik": "Enterprise paket destek türü premium destek olarak güncellendi."
+  },
+  {
+    "tarih": "2025-03-01",
+    "etkilenen_paket": "Pro",
+    "degisiklik": "Pro paket kullanıcı limiti 25'ten 30'a yükseltildi."
+  }
+]
